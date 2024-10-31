@@ -1,0 +1,9 @@
+# Ignore .env and env files anywhere in the project
+.env
+.env.*
+env
+env.*
+
+# Other ignore rules
+dist/
+__pycache__/
